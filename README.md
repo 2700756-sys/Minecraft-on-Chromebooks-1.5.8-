@@ -1,0 +1,1 @@
+tutorial on index.html (AKA HOW TO RUN THE MINECRAFT) so this works by when you download it you go into your downloads, click on it twice to open it than you'll see a file, double click again then you'll be able to see the index.html and double click on it while having your browser open to run it in your browser! (AND it cant get blocked because its a FILE)
